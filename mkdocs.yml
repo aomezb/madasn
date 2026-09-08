@@ -1,3 +1,4 @@
 site_name: 澳门单身证明样本，澳门寡佬证实物样例
 theme:
   name: material
+  custom_dir: overrides
